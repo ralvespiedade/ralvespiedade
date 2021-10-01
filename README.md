@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ralvespiedade
 - 👀 I’m interested in becoming a fulltime developer
 - 🌱 I’m currently learning Java Script, HTML5 and CSS3
-- 💞️ I’m looking to collaborate on fullstack project, from de backend to the frontend. I wish tô learn NodeJS, React, React Native end so on
+- 💞️ I’m looking to collaborate on fullstack project, from de back to the frontend. I wish to learn NodeJS, React, React Native end so on
 - 📫 How to reach me ralvespiedade@gmail.com
 
 <!---
